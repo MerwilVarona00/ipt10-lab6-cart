@@ -1,0 +1,8 @@
+Order Code: 64cbc7330c1406b9
+Date and Time Ordered: 2024-09-10 14:00:38
+Items:
+Product ID: 4
+Product Name: 5Kg Sugar
+Price: 500 PHP
+------
+Total Price: 500 PHP
